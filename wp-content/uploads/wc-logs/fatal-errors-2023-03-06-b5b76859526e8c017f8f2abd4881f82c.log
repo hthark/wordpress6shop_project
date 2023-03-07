@@ -1,0 +1,16 @@
+2023-03-06T01:57:08+00:00 CRITICAL syntax error, unexpected token "/", expecting end of file(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\home.php, 줄 1)
+
+2023-03-06T02:11:03+00:00 CRITICAL syntax error, unexpected token ","(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php, 줄 37)
+
+2023-03-06T10:48:27+00:00 CRITICAL Uncaught Error: Call to undefined function each() in D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php:145
+Stack trace:
+#0 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(783): require_once()
+#1 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(718): load_template()
+#2 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(48): locate_template()
+#3 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\home.php(1): get_header()
+#4 D:\Apache24\htdocs\wordpress6shop\wp-includes\template-loader.php(106): include('...')
+#5 D:\Apache24\htdocs\wordpress6shop\wp-blog-header.php(19): require_once('...')
+#6 D:\Apache24\htdocs\wordpress6shop\index.php(17): require('...')
+#7 {main}
+  thrown(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 145)
+

@@ -1,0 +1,44 @@
+2023-03-03T00:36:13+00:00 CRITICAL Unclosed '{' on line 4 does not match ')'(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\autocamping-text-widget\autocamping-text-widget-class.php, 줄 14)
+
+2023-03-03T00:36:20+00:00 CRITICAL Unclosed '{' on line 4 does not match ')'(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\autocamping-text-widget\autocamping-text-widget-class.php, 줄 14)
+
+2023-03-03T00:36:20+00:00 CRITICAL Unclosed '{' on line 4 does not match ')'(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\autocamping-text-widget\autocamping-text-widget-class.php, 줄 14)
+
+2023-03-03T00:37:18+00:00 CRITICAL Unclosed '{' on line 4 does not match ')'(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\autocamping-text-widget\autocamping-text-widget-class.php, 줄 14)
+
+2023-03-03T00:37:25+00:00 CRITICAL Unclosed '{' on line 4 does not match ')'(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\autocamping-text-widget\autocamping-text-widget-class.php, 줄 14)
+
+2023-03-03T00:37:25+00:00 CRITICAL Unclosed '{' on line 4 does not match ')'(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\autocamping-text-widget\autocamping-text-widget-class.php, 줄 14)
+
+2023-03-03T02:08:22+00:00 CRITICAL syntax error, unexpected token "while"(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 8)
+
+2023-03-03T02:10:58+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:11:03+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:12:01+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:15:21+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:16:47+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:17:15+00:00 CRITICAL syntax error, unexpected token "*"(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 12)
+
+2023-03-03T02:17:19+00:00 CRITICAL syntax error, unexpected token "*"(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 12)
+
+2023-03-03T02:20:11+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:20:15+00:00 CRITICAL Unclosed '{' on line 8(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 14)
+
+2023-03-03T02:48:02+00:00 CRITICAL syntax error, unexpected token ":"(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 8)
+
+2023-03-03T02:48:30+00:00 CRITICAL syntax error, unexpected token ":"(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 8)
+
+2023-03-03T02:49:53+00:00 CRITICAL Unclosed '{' on line 7(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 16)
+
+2023-03-03T02:51:15+00:00 CRITICAL Unclosed '{' on line 7(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 16)
+
+2023-03-03T02:53:10+00:00 CRITICAL Unclosed '{' on line 7(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 16)
+
+2023-03-03T02:54:37+00:00 CRITICAL Unclosed '{' on line 7(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php, 줄 17)
+

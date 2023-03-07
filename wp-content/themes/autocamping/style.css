@@ -1,0 +1,24 @@
+/*
+	Theme Name:		AutoCamping
+	Author:			WrodPress AutoCamping
+	Author URI:		http://localhost/wordpress6
+	Description:	워드프레스 오토캠핑 테마 만들기
+	Version:		0.2
+	Licence URI:	http://www.qnu.org/licenses/qp1-2.0.html
+*/
+
+h1{
+	color:#676767;
+}
+h2{
+	color:red;
+}
+h3{
+	color:green;
+}
+h4{
+	color:#ffffff;
+}
+h5{
+	color:#333333;
+}

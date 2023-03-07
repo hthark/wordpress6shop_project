@@ -1,0 +1,77 @@
+2023-03-02T08:56:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 868352 bytes)(D:\Apache24\htdocs\wordpress6shop\wp-content\plugins\google-listings-and-ads\vendor\composer\jetpack_autoload_classmap.php, 줄 16642)
+
+2023-03-02T12:12:18+00:00 CRITICAL syntax error, unexpected token ">", expecting end of file(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 7)
+
+2023-03-02T12:18:41+00:00 CRITICAL syntax error, unexpected token ">", expecting end of file(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 7)
+
+2023-03-02T12:21:38+00:00 CRITICAL syntax error, unexpected token ">", expecting end of file(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 7)
+
+2023-03-02T12:25:09+00:00 CRITICAL syntax error, unexpected token ","(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 10)
+
+2023-03-02T12:31:37+00:00 CRITICAL syntax error, unexpected token ","(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 10)
+
+2023-03-02T12:32:16+00:00 CRITICAL syntax error, unexpected token ","(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php, 줄 10)
+
+2023-03-02T12:49:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_stylesheet_url() in D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php:3
+Stack trace:
+#0 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(308): autocamping_load_style()
+#1 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 D:\Apache24\htdocs\wordpress6shop\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 D:\Apache24\htdocs\wordpress6shop\wp-includes\script-loader.php(2180): do_action()
+#4 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts()
+#5 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 D:\Apache24\htdocs\wordpress6shop\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(3043): do_action()
+#8 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php(12): wp_head()
+#9 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(783): require_once('...')
+#10 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(718): load_template()
+#11 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(48): locate_template()
+#12 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php(1): get_header()
+#13 D:\Apache24\htdocs\wordpress6shop\wp-includes\template-loader.php(106): include('...')
+#14 D:\Apache24\htdocs\wordpress6shop\wp-blog-header.php(19): require_once('...')
+#15 D:\Apache24\htdocs\wordpress6shop\index.php(17): require('...')
+#16 {main}
+  thrown(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php, 줄 3)
+
+2023-03-02T12:54:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_stylesheet_url() in D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php:3
+Stack trace:
+#0 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(308): autocamping_load_style()
+#1 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 D:\Apache24\htdocs\wordpress6shop\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 D:\Apache24\htdocs\wordpress6shop\wp-includes\script-loader.php(2180): do_action()
+#4 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts()
+#5 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 D:\Apache24\htdocs\wordpress6shop\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(3043): do_action()
+#8 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php(12): wp_head()
+#9 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(783): require_once('...')
+#10 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(718): load_template()
+#11 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(48): locate_template()
+#12 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php(1): get_header()
+#13 D:\Apache24\htdocs\wordpress6shop\wp-includes\template-loader.php(106): include('...')
+#14 D:\Apache24\htdocs\wordpress6shop\wp-blog-header.php(19): require_once('...')
+#15 D:\Apache24\htdocs\wordpress6shop\index.php(17): require('...')
+#16 {main}
+  thrown(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php, 줄 3)
+
+2023-03-02T13:04:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_stylesheet_url() in D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php:3
+Stack trace:
+#0 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(308): autocamping_load_style()
+#1 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 D:\Apache24\htdocs\wordpress6shop\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 D:\Apache24\htdocs\wordpress6shop\wp-includes\script-loader.php(2180): do_action()
+#4 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts()
+#5 D:\Apache24\htdocs\wordpress6shop\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 D:\Apache24\htdocs\wordpress6shop\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(3043): do_action()
+#8 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\header.php(12): wp_head()
+#9 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(783): require_once('...')
+#10 D:\Apache24\htdocs\wordpress6shop\wp-includes\template.php(718): load_template()
+#11 D:\Apache24\htdocs\wordpress6shop\wp-includes\general-template.php(48): locate_template()
+#12 D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\index.php(1): get_header()
+#13 D:\Apache24\htdocs\wordpress6shop\wp-includes\template-loader.php(106): include('...')
+#14 D:\Apache24\htdocs\wordpress6shop\wp-blog-header.php(19): require_once('...')
+#15 D:\Apache24\htdocs\wordpress6shop\index.php(17): require('...')
+#16 {main}
+  thrown(D:\Apache24\htdocs\wordpress6shop\wp-content\themes\autocamping\functions.php, 줄 3)
+
